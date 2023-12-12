@@ -10,7 +10,7 @@ and finally the name of the secret project the CEO is working on be tricking the
 
 to make it bypass security protocols.
 
-Screenshots can be found inthe images folder of day1.
+Screenshots can be found in the images folder of day1.
 
 Answers :
 ![answers.png](https://github.com/Hajim3ND/Advent-of-Cyber-2023/blob/main/day1/images/answers.png)
