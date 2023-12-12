@@ -25,7 +25,7 @@ us the revelant password
 
 that we used to get the flag after opening the door.
 
-Screenshots mentioned can be found in the images folder of day3.
+Screenshots can be found in the images folder of day3.
 
 Answers :
 ![answers.png](https://github.com/Hajim3ND/Advent-of-Cyber-2023/blob/main/day3/images/answers.png)
