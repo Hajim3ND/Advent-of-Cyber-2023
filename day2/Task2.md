@@ -27,7 +27,7 @@ and lastly we had to sort out what was the most frequent protocol with the use o
 
 ![p2_screenshot3.png](https://github.com/Hajim3ND/Advent-of-Cyber-2023/blob/main/day2/images/p3_screenshot3.png)
 
-Screenshots mentioned can be found in the images folder of day2.
+Screenshots can be found in the images folder of day2.
 
 Answers:
 ![answers.png](https://github.com/Hajim3ND/Advent-of-Cyber-2023/blob/main/day2/images/answers.png)
